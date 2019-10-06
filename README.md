@@ -1,3 +1,4 @@
+This project is my solution of a freecodecamp challenge.
 
 # API Project: File Metadata Microservice for freeCodeCamp
 
